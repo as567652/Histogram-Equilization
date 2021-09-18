@@ -1,6 +1,6 @@
 # Histogram Equilization
 
-Code snippet to adjust image contrast using Histogram Equalization with the help of **OpenCV** and **Matplotlib** libarary.
+Code snippet to adjust image contrast using Histogram Equalization with the help of **OpenCV** and **Matplotlib** library in python 3.
 
 ## Table of contents
 * [Introduction](#introduction)
@@ -57,6 +57,7 @@ Using this formula we can calculate new intensity of image based on intensities 
 <p align = 'center'>
   <img src="Readme Images/formula_used.png" width=50% title="Formula Used">
 </p>
+*Source :- [Digital Image Processing (Third Edition) by Rafael C. Gonzalez and Richard E. Woods](https://www.amazon.com/Digital-Image-Processing-Rafael-Gonzalez/dp/013168728X) Topic - 3.3.1 (Pg 120)*
 <br>
 Here,
 * *MN* is the total number of pixels in the image
