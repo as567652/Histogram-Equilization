@@ -57,12 +57,12 @@ Using this formula we can calculate new intensity of image based on intensities 
 <p align = 'center'>
   <img src="Readme Images/formula_used.png" width=50% title="Formula Used">
 </p>
-*Source :- [Digital Image Processing (Third Edition) by Rafael C. Gonzalez and Richard E. Woods](https://www.amazon.com/Digital-Image-Processing-Rafael-Gonzalez/dp/013168728X) Topic - 3.3.1 (Pg 120)*
 <br>
 Here,
-* *MN* is the total number of pixels in the image
-* *nk* is the number of pixels that have intensity *rk*
-* *L* is the number of possible intensity levels in the image
+MN is the total number of pixels in the image, nk is the number of pixels that have intensity rk and L is the number of possible intensity levels in the image
+
+<br>
+Source :- Digital Image Processing (Third Edition) by Rafael C. Gonzalez and Richard E. Woods Topic - 3.3.1 (Pg 120)
 
 ## Illustrations
 
